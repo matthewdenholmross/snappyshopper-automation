@@ -1,0 +1,2 @@
+# snappyshopper-automation
+
